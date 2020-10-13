@@ -24,7 +24,7 @@
 * *2 hours* Read the reference papers supervisor sent to gain initial understanding
 
 ### 2 Oct 2020
-* *2 hours* Read the reference papers supervisor sent to gain initial understanding
+* *2 hours* Read the research papers supervisor sent to gain initial understanding
 
 ## Week 2
 
