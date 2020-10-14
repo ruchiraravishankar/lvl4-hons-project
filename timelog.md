@@ -30,7 +30,7 @@
 
 ### 5 Oct 2020
 
-* *1 hour* meeting with supervisor
+* *0.5 hours* meeting with supervisor
 
 ### 8 Oct 2020
 * *0.5 hours* Learnt how to read an ECG signal
@@ -40,3 +40,10 @@
 
 ### 11 Oct 2020
 * *3 hours* Continued work on visualising ECG data and analysis of the data
+
+### 12 Oct 2020
+* *0.5 hours* meeting with supervisor
+* *2 hours* mapped annotations onto graph of ECG
+
+### 13 Oct 2020
+* *3 hours* worked on segmenting data into the annotated classes
