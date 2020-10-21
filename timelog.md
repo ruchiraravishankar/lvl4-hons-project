@@ -47,3 +47,21 @@
 
 ### 13 Oct 2020
 * *3 hours* worked on segmenting data into the annotated classes
+
+### 14 Oct 2020
+* *3 hours* worked on extracting each heartbeat from data
+
+### 15 Oct 2020
+* *1.5 hours* research on creating dataset from extracted beats
+* *0.5 hours* research on standardisation vs normalisation
+
+### 16 Oct 2020
+* *3 hours* standardised all beats, removed unclassified beats
+
+### 17 Oct 2020
+* *2 hours* fixed bugs in function to segment heart beats from dataset
+* *1 hour* worked on saving all signals in csv files
+
+### 18 Oct 2020
+* *2 hours* fixed some more bugs in the code
+* *1 hour* created slide deck for supervisor meeting with updates
