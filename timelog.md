@@ -41,6 +41,8 @@
 ### 11 Oct 2020
 * *3 hours* Continued work on visualising ECG data and analysis of the data
 
+## Week 3
+
 ### 12 Oct 2020
 * *0.5 hours* meeting with supervisor
 * *2 hours* mapped annotations onto graph of ECG
@@ -65,3 +67,54 @@
 ### 18 Oct 2020
 * *2 hours* fixed some more bugs in the code
 * *1 hour* created slide deck for supervisor meeting with updates
+
+## Week 4
+
+### 19 Oct 2020
+* *0.5 hours* meeting with supervisor
+
+### 20 Oct 2020
+* *1 hour* PhD student presentation
+* *2 hours* Research on upsampling and downsampling data
+
+### 22 Oct 2020
+* *2 hours* wrote code to upsample and downsample dataset
+
+### 23 Oct 2020
+* *3 hours* revisited upsample downsample functions to replace with sklearn functions
+* *1 hour* implemented LOOCV to segment data into training and testing sets
+
+### 24 Oct 2020
+* *2 hours* Research on Data Visualisation
+* *4 hours* Learnt and tested running code on the GPU cluster and creating own docker image
+
+### 25 Oct 2020
+* *6 hours* Created UMAPs for raw data to identify clusters for all beats - inter-patient
+* *0.5 hours* created slide deck for supervisor meeting
+
+## Week 5
+
+### 26 Oct 2020
+* *0.5 hours* supervisor meeting
+* *1 hour* Added patient number to data in order to be able to group by patient
+### 27 Oct 2020
+* *2 hours* Research on visualising high dimensional data, t-SNE vs UMAP
+### 29 Oct 2020
+* *3 hours* Created 75/25 split of data and trained it on xgboost model
+* *2 hours* trained data on various support vector machines
+### 31 Oct 2020
+* *2 hours* Visualised model predictions with UMAPs
+* *2 hours* Implemented Leave One Patient Out, fixing LOOCV from last week
+### 1 Nov 2020
+* *2 hours* Research on other ways of visualising high-d data
+* *0.5 hours* created slide deck for supervisor meeting
+
+## Week 6
+
+### 2 Nov 2020
+* *0.5 hours* meeting with supervisor
+
+### 3 Nov 2020
+* *1 hour* Research on building CNNs for ECG data
+
+### 5 Nov 2020
