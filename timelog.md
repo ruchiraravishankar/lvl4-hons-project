@@ -97,14 +97,18 @@
 ### 26 Oct 2020
 * *0.5 hours* supervisor meeting
 * *1 hour* Added patient number to data in order to be able to group by patient
+
 ### 27 Oct 2020
 * *2 hours* Research on visualising high dimensional data, t-SNE vs UMAP
+
 ### 29 Oct 2020
 * *3 hours* Created 75/25 split of data and trained it on xgboost model
 * *2 hours* trained data on various support vector machines
+
 ### 31 Oct 2020
 * *2 hours* Visualised model predictions with UMAPs
 * *2 hours* Implemented Leave One Patient Out, fixing LOOCV from last week
+
 ### 1 Nov 2020
 * *2 hours* Research on other ways of visualising high-d data
 * *0.5 hours* created slide deck for supervisor meeting
