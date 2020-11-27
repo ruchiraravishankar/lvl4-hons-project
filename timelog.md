@@ -119,6 +119,48 @@
 * *0.5 hours* meeting with supervisor
 
 ### 3 Nov 2020
-* *1 hour* Research on building CNNs for ECG data
+* *2 hours* Research on CNNs and how they work, 1D CNNs in particular
 
 ### 5 Nov 2020
+* *2 hours* Created confusion matrices for ML models so far
+
+### 7 Nov 2020
+* *2 hours* Read PyTorch Recipes book to learn about building CNNs in PyTorch
+* *0.5 hours* Calculated various metrics to measure performance of models (F1, precision, recall)
+* *5 hours* Building a first attempt 1D CNN in PyTorch
+### 8 Nov 2020
+* *0.5 hours* created slide deck for supervisor meeting
+
+
+## Week 7
+
+### 9 Nov 2020
+* *0.5 hours* meeting with supervisor
+* *0.5 hours* fixed confusion matrices to reflect performance per class
+
+### 10 Nov 2020
+* *5 hours* Worked on PyTorch CNN
+
+### 11 Nov 2020
+* *2 hours* Ran models on imbalanced dataset and created confusion matrices for comparison
+
+### 12 Nov 2020
+* *4 hours* Built a complete 1D CNN in Keras and ran it
+
+### 13 Nov 2020
+* *2 hours* Research on variational autoencoders
+
+### 14 Nov 2020
+* *0.5 hours* created slide deck for supervisor meeting
+
+## Week 8
+
+### 18 Nov 2020
+* *3 hours* patient split of data to fix train test split due to test data having synthetic data, confusion matrices created
+
+### 19 Nov 2020
+* *3 hours* Research on VAEs,  made notes on Bengio, Yoshua, Courville, Aaron, Vincent, Pascal, Representation Learning: A Review and New Perspectives
+
+### 21 Nov 2020
+* *2 hours* Research on VAEs, made notes on Kuznetsov, V. V., Moskalenko, V. A., Zolotykh, N. Yu., Electrocardiogram Generation and Feature Extraction Using a Variational Autoencoder
+* *0.5 hours* created slide deck for supervisor meeting
