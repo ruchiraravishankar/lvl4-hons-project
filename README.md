@@ -8,9 +8,8 @@ It is highly recommended to run the notebooks on Google Colaboratory. However, t
 ## Important
 Please be aware of changing any paths in the notebooks. All cells with loading and saving files have been flagged with the comment "change path as required". Please pay special attention to this as there is a lot of data being saved and loaded by each notebook.
 
-## Requirements
-1. Download the dataset from https://www.physionet.org/content/mitdb/1.0.0/ and save to the appropriate path as required by the Data Preprocessing notebook.
-2. wfdb library - 
+## Dataset
+Download the dataset from https://www.physionet.org/content/mitdb/1.0.0/ and save to the appropriate path as required by the Data Preprocessing notebook.
 
 
 ## Notebooks to run in order
