@@ -1,4 +1,6 @@
-# Level 4 Honours Individual Project
+# Development of machine learning models to detect Arrythmia based on ECG data: Class Imbalance
+
+## Level 4 Honours Individual Project
 ### Ruchira Ravishankar, 2300294r
 
 This project addresses the class imbalance problem in ECG data and explores the use of VAEs to produce synthetic ECG beats. It also uses a classifier to test the quality of the synthetic beats produced and whether they have an impact on imbalanced classification.
